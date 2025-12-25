@@ -1,5 +1,7 @@
-$ cat github-branches
+AzEduNet@acerextense10100018 MINGW64 ~ (main)
+$ git branch -a
+  bug-fix-revert
   bug-fix-typo
   jjj
-* master
+* main
   remotes/origin/jjj
