@@ -1,1 +1,10 @@
+AzEduNet@acerextense10100018 MINGW64 ~ (bug-fix-typo)
+$ git checkout main
+Switched to branch 'main'
 
+AzEduNet@acerextense10100018 MINGW64 ~ (main)
+$ git merge bug-fix-typo
+Updating ccf35e4..2978a2a
+Fast-forward
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
