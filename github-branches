@@ -1,1 +1,5 @@
-
+$ cat github-branches
+  bug-fix-typo
+  jjj
+* master
+  remotes/origin/jjj
